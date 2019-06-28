@@ -10668,7 +10668,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="TLC555CDR"/>
 <attribute name="OC_NEWARK" value="24M8296"/>
 </part>
-<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10680,7 +10680,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="CR0805FX-1001ELF"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="6.2K">
+<part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="6.2K">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10692,7 +10692,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="CR0805FX-6201ELF"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="390">
+<part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="390">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10704,7 +10704,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="CR0805JW-391ELF"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="910">
+<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="910">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10716,7 +10716,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="CR0805FX-9100ELF"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10728,7 +10728,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="CR0805FX-1001ELF"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.1K">
+<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.1K">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10740,7 +10740,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="CR0805FX-1101ELF"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="620">
+<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="620">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10752,7 +10752,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="CR0805JW-621ELF"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.3K">
+<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.3K">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10764,7 +10764,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value="CR0805JW-132ELF"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5K">
+<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5K">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10892,7 +10892,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="73.66" y="86.233" size="1.778" layer="96"/>
 <attribute name="MOUSER#" x="81.28" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R2" gate="G$1" x="228.6" y="111.76" smashed="yes" rot="R90">
+<instance part="R10" gate="G$1" x="228.6" y="111.76" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="228.6" y="111.76" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="228.6" y="111.76" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="228.6" y="111.76" size="1.778" layer="96" display="off"/>
@@ -10900,7 +10900,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="231.902" y="107.95" size="1.778" layer="96" rot="R90"/>
 <attribute name="MOUSER#" x="228.6" y="111.76" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
-<instance part="R10" gate="G$1" x="228.6" y="91.44" smashed="yes" rot="R270">
+<instance part="R9" gate="G$1" x="228.6" y="91.44" smashed="yes" rot="R270">
 <attribute name="OC_NEWARK" x="228.6" y="91.44" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MF" x="228.6" y="91.44" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MPN" x="228.6" y="91.44" size="1.778" layer="96" rot="R270" display="off"/>
@@ -10908,7 +10908,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="225.298" y="95.25" size="1.778" layer="96" rot="R270"/>
 <attribute name="MOUSER#" x="228.6" y="91.44" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
-<instance part="R9" gate="G$1" x="220.98" y="81.28" smashed="yes">
+<instance part="R8" gate="G$1" x="220.98" y="81.28" smashed="yes">
 <attribute name="OC_NEWARK" x="220.98" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="220.98" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="220.98" y="81.28" size="1.778" layer="96" display="off"/>
@@ -10916,7 +10916,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="217.17" y="77.978" size="1.778" layer="96"/>
 <attribute name="MOUSER#" x="220.98" y="81.28" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R8" gate="G$1" x="205.74" y="81.28" smashed="yes">
+<instance part="R7" gate="G$1" x="205.74" y="81.28" smashed="yes">
 <attribute name="OC_NEWARK" x="205.74" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="205.74" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="205.74" y="81.28" size="1.778" layer="96" display="off"/>
@@ -10924,7 +10924,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="201.93" y="77.978" size="1.778" layer="96"/>
 <attribute name="MOUSER#" x="205.74" y="81.28" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R7" gate="G$1" x="190.5" y="81.28" smashed="yes">
+<instance part="R6" gate="G$1" x="190.5" y="81.28" smashed="yes">
 <attribute name="OC_NEWARK" x="190.5" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="190.5" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="190.5" y="81.28" size="1.778" layer="96" display="off"/>
@@ -10932,7 +10932,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="186.69" y="77.978" size="1.778" layer="96"/>
 <attribute name="MOUSER#" x="190.5" y="81.28" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R6" gate="G$1" x="175.26" y="81.28" smashed="yes">
+<instance part="R5" gate="G$1" x="175.26" y="81.28" smashed="yes">
 <attribute name="OC_NEWARK" x="175.26" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="175.26" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="175.26" y="81.28" size="1.778" layer="96" display="off"/>
@@ -10940,7 +10940,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="171.45" y="77.978" size="1.778" layer="96"/>
 <attribute name="MOUSER#" x="175.26" y="81.28" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R5" gate="G$1" x="160.02" y="81.28" smashed="yes">
+<instance part="R4" gate="G$1" x="160.02" y="81.28" smashed="yes">
 <attribute name="OC_NEWARK" x="160.02" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="160.02" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="160.02" y="81.28" size="1.778" layer="96" display="off"/>
@@ -10948,7 +10948,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="156.21" y="77.978" size="1.778" layer="96"/>
 <attribute name="MOUSER#" x="160.02" y="81.28" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R4" gate="G$1" x="144.78" y="81.28" smashed="yes">
+<instance part="R3" gate="G$1" x="144.78" y="81.28" smashed="yes">
 <attribute name="OC_NEWARK" x="144.78" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="144.78" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="144.78" y="81.28" size="1.778" layer="96" display="off"/>
@@ -10956,7 +10956,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="VALUE" x="140.97" y="77.978" size="1.778" layer="96"/>
 <attribute name="MOUSER#" x="144.78" y="81.28" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R3" gate="G$1" x="129.54" y="81.28" smashed="yes">
+<instance part="R2" gate="G$1" x="129.54" y="81.28" smashed="yes">
 <attribute name="OC_NEWARK" x="129.54" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="129.54" y="81.28" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="129.54" y="81.28" size="1.778" layer="96" display="off"/>
@@ -11092,7 +11092,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <net name="VCC" class="0">
 <segment>
 <pinref part="P+2" gate="VCC" pin="VCC"/>
-<pinref part="R2" gate="G$1" pin="2"/>
+<pinref part="R10" gate="G$1" pin="2"/>
 <wire x1="228.6" y1="124.46" x2="228.6" y2="116.84" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -11120,10 +11120,10 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </net>
 <net name="N$2" class="0">
 <segment>
-<pinref part="R10" gate="G$1" pin="1"/>
+<pinref part="R9" gate="G$1" pin="1"/>
 <pinref part="U1" gate="A" pin="DIS"/>
 <wire x1="228.6" y1="96.52" x2="228.6" y2="101.6" width="0.1524" layer="91"/>
-<pinref part="R2" gate="G$1" pin="1"/>
+<pinref part="R10" gate="G$1" pin="1"/>
 <wire x1="228.6" y1="101.6" x2="91.44" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="228.6" y1="106.68" x2="228.6" y2="101.6" width="0.1524" layer="91"/>
 <junction x="228.6" y="101.6"/>
@@ -11240,9 +11240,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <net name="N$1" class="0">
 <segment>
 <pinref part="SW8" gate="G$1" pin="2"/>
-<pinref part="R10" gate="G$1" pin="2"/>
-<wire x1="228.6" y1="76.2" x2="228.6" y2="81.28" width="0.1524" layer="91"/>
 <pinref part="R9" gate="G$1" pin="2"/>
+<wire x1="228.6" y1="76.2" x2="228.6" y2="81.28" width="0.1524" layer="91"/>
+<pinref part="R8" gate="G$1" pin="2"/>
 <wire x1="228.6" y1="81.28" x2="228.6" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="226.06" y1="81.28" x2="228.6" y2="81.28" width="0.1524" layer="91"/>
 <junction x="228.6" y="81.28"/>
@@ -11252,17 +11252,17 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <segment>
 <pinref part="SW7" gate="G$1" pin="2"/>
 <wire x1="213.36" y1="76.2" x2="213.36" y2="81.28" width="0.1524" layer="91"/>
-<pinref part="R9" gate="G$1" pin="1"/>
+<pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="215.9" y1="81.28" x2="213.36" y2="81.28" width="0.1524" layer="91"/>
-<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="213.36" y1="81.28" x2="210.82" y2="81.28" width="0.1524" layer="91"/>
 <junction x="213.36" y="81.28"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
-<pinref part="R8" gate="G$1" pin="1"/>
-<pinref part="R7" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="1"/>
+<pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="200.66" y1="81.28" x2="198.12" y2="81.28" width="0.1524" layer="91"/>
 <pinref part="SW6" gate="G$1" pin="2"/>
 <wire x1="198.12" y1="81.28" x2="195.58" y2="81.28" width="0.1524" layer="91"/>
@@ -11272,8 +11272,8 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="R7" gate="G$1" pin="1"/>
-<pinref part="R6" gate="G$1" pin="2"/>
+<pinref part="R6" gate="G$1" pin="1"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="185.42" y1="81.28" x2="182.88" y2="81.28" width="0.1524" layer="91"/>
 <pinref part="SW5" gate="G$1" pin="2"/>
 <wire x1="182.88" y1="81.28" x2="180.34" y2="81.28" width="0.1524" layer="91"/>
@@ -11283,8 +11283,8 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </net>
 <net name="N$7" class="0">
 <segment>
-<pinref part="R6" gate="G$1" pin="1"/>
-<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="170.18" y1="81.28" x2="167.64" y2="81.28" width="0.1524" layer="91"/>
 <pinref part="SW4" gate="G$1" pin="2"/>
 <wire x1="167.64" y1="81.28" x2="165.1" y2="81.28" width="0.1524" layer="91"/>
@@ -11294,8 +11294,8 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </net>
 <net name="N$8" class="0">
 <segment>
-<pinref part="R5" gate="G$1" pin="1"/>
-<pinref part="R4" gate="G$1" pin="2"/>
+<pinref part="R4" gate="G$1" pin="1"/>
+<pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="154.94" y1="81.28" x2="152.4" y2="81.28" width="0.1524" layer="91"/>
 <pinref part="SW3" gate="G$1" pin="2"/>
 <wire x1="152.4" y1="81.28" x2="149.86" y2="81.28" width="0.1524" layer="91"/>
@@ -11305,8 +11305,8 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </net>
 <net name="N$9" class="0">
 <segment>
-<pinref part="R4" gate="G$1" pin="1"/>
-<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="139.7" y1="81.28" x2="137.16" y2="81.28" width="0.1524" layer="91"/>
 <pinref part="SW2" gate="G$1" pin="2"/>
 <wire x1="137.16" y1="81.28" x2="134.62" y2="81.28" width="0.1524" layer="91"/>
@@ -11318,7 +11318,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <segment>
 <pinref part="SW1" gate="G$1" pin="2"/>
 <wire x1="121.92" y1="76.2" x2="121.92" y2="81.28" width="0.1524" layer="91"/>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="121.92" y1="81.28" x2="124.46" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 </net>
